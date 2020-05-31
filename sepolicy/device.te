@@ -1,3 +1,0 @@
-# /dev/i2c-20 - TFA98xx amplifier
-type amplifier_device, dev_type;
-

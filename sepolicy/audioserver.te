@@ -1,2 +1,0 @@
-# TFA98xx amplifier
-allow audioserver amplifier_device:chr_file rw_file_perms;
